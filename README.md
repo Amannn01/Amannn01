@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack MERN Developer with 5+ months of combined<br>development and internship experience, delivering<br>production-grade REST APIs, JWT-secured backends,<br>and GenAI-integrated web applications. Certified in Full<br>Stack Development with AI by HCL Technologies (240<br>hours). Demonstrated ability to reduce bugs by 40%,<br>improve API performance by 25–30%, and build systems<br>handling 50+ concurrent requests. Proficient in LLM<br>integration, RAG pipelines, and Vector Embeddings.<br>Currently expanding expertise in Docker, Redis, and<br>Apache Kafka for distributed and cloud-native systems
+Full Stack MERN Developer with 5+ months of combined<br>development and internship experience, delivering<br>production-grade REST APIs, JWT-secured backends, and GenAI-integrated web applications. Certified in Full<br>Stack Development with AI by HCL Technologies (240 hours). Demonstrated ability to reduce bugs by 40%, improve API performance by 25–30%, and build systems handling 50+ concurrent requests. Proficient in LLM integration, RAG pipelines, and Vector Embeddings. Currently expanding expertise in Docker, Redis, and Apache Kafka for distributed and cloud-native systems
 
 
 ## 🌐 Socials:
